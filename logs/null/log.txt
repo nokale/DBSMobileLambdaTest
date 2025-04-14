@@ -1,0 +1,1810 @@
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: f076f189-df33-495d-8992-27ba7e1c8bbb
+1:com.qa.BaseTest:Session ID: 61d2799e-70e2-4774-b0ec-74fce15d3429
+1:com.qa.BaseTest:Session ID: 144b89ee-942c-4817-b69c-33a3b4b46cc5
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: 955fc622-e996-400a-91ba-b0c6c64bc94d
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: 6ca85147-9844-44d3-affa-2b465f842185
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: 3a06681b-1b22-4fe9-b0f6-6f4da778b269
+1:com.qa.BaseTest:Session ID: 3f6e3c7d-1e1a-4325-bc8c-f62ad530a756
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 69064951-b70d-4cd1-9139-efd6ca29421a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: a88d39d3-2f6b-449d-b5b2-04db7b220f98
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 861b98c6-c74d-42ba-8c2d-05a744be3f4a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: 56060b6a-63b5-44db-ab74-b1d598b1adcd
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: 18fa1828-13d6-4d80-b06c-5873833d6915
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: a10d802b-7a3a-4060-b43d-e883afab08cd
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: c1b4d085-ff20-4c1f-aaf8-8cf5b17b6527
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: bdb9d364-e8f3-4d04-b049-6259b7dea31c
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: 77bd2d69-2c93-4bd9-8e05-9933903bfd3a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: 38773878-a46d-4ce5-b0f4-79e9c53ea6f3
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: 973293bf-b672-4e81-a64f-7747379c1dad
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: 7d67f8f2-531c-404a-986a-8ebbd5581092
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: 58f331f2-f3ff-4940-9390-4e736cba4831
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: f8ee965a-f698-409a-9c62-153d335790e7
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: 767272d5-358f-4972-b35d-9cab4e53c8ef
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: b4dca699-c20b-445b-ae19-aab18ea64bff
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: 59828e9c-ab85-43e8-a7f9-cb03ad1ae784
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: 3af1f1ae-9028-43f3-a56d-d751dcf2ca8b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: 9d9e5e04-5152-4876-b2e3-deb78de5d08b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: 266fd847-d909-479c-8c1d-1cfe568599e2
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: ee7ac1d0-3988-4d97-adc6-11dbb4c8ba07
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::oading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: cce8f632-d628-4a9d-bf45-8671a0992d29
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: fcca0ac7-060b-4a0e-9f51-44e842059aea
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: f5a80222-d258-4ae7-85fe-f595e7697a84
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: 42a8123e-8506-4395-8949-18972e4ebf31
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: a3ddd1a1-530c-40e6-a387-a400466d1f54
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: b7fad440-8ae9-427f-9e6d-e50f514684b1
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 9a3af613-6a4c-4c99-a500-32ae59b8899a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 924dfe4a-330b-474e-a31c-b705e85c6a30
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: d1137437-e84b-4edd-82b7-71ce7d91e78e
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: e7b67524-3e53-4889-a27d-2cc2feb6b9e2
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:Session ID: 11237df4-5515-4953-86d5-90905073731e
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 61ccedb4-fc5a-4611-abe4-d7f2cbb5bc4c
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: c134846e-8dfc-4baf-a5b1-32f33464de2e
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: 1ed2b12a-0206-4e6e-8fd3-e5d974f68bcf
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 34880f71-a0f0-4cd5-a53e-f0d7351200d7
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 6dd23d7e-6da6-414d-9c06-41d074ceb916
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Session ID: b0434706-1bb5-4815-a701-49c48a5a0444
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: ef564a58-bd81-4618-bd62-ff73ed2677ae
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:Session ID: 4998fb89-bccd-49e8-8bf6-a1fe03ff62e7
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: c55d6e4f-63e7-4288-92f6-3c649eae734c
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 43a24743-d7f3-45cd-8d93-4237d47ae6dd
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: bc5a1752-7446-49e8-95c7-e83e514c769c
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 204045d8-4a85-43bf-b985-236d5ae5060c
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 2750450a-26bf-4618-93a1-76f983b72532
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 3cf12e9a-3293-42c1-a481-0522bc01682d
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: a616fb34-c21c-493f-8a06-21b6071d6168
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: a2ec205c-4214-4ca0-b61d-b9c943ae4d61
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 268f8c2e-5cc8-4e1b-9b9f-a61e3433b9aa
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.BaseTest:Session ID: 7693735c-44a2-48ca-a5bb-9714e4809136
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: db3675a4-7eb7-4fb9-b92a-002a9cd317a6
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: fc704668-b91b-41e4-86c0-80cddf8b69a5
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 7e41663e-cad9-4755-a48d-86fe8702f5b0
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage::Loading issue
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 0134ad56-12f1-445d-acd8-ae4ababed1ad
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.CardsPage:Context check : NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: b0842edc-9e66-404b-9aba-cda43ba5d7fd
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.CardsPage:Context check : NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 99039a03-9b82-4e5d-ba2b-c80519eb2a4a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 91b2cdcd-c92d-4eb2-afe9-769f028c6ed9
+1:com.qa.BaseTest:Session ID: 553dc887-81ca-4bf4-b253-9bdcd9528655
+1:com.qa.BaseTest:Session ID: 2c11724b-e961-4d29-95bf-d58292ef554c
+1:com.qa.BaseTest:Session ID: 8b6bfb2e-2a32-4e7d-aaf7-b5a2be37b4cd
+1:com.qa.BaseTest:Session ID: 7e9bda95-2ecb-4fe3-b174-f2e22855137b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.CardsPage:Context check : NATIVE_APP
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 509aa032-174a-4710-9535-e3d76d0d4b19
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: f4b7762c-b228-4dd3-a7ae-0d8ad9c83a35
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 72913d23-85a2-4db8-9480-cad7cef2bdea
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: 64e60715-561f-4ea0-b234-06918e9f95fa
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 3c692a66-09f8-47a6-9274-940b90a27364
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 6a1a20c8-dd4a-4056-9141-ca4834320761
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: fb29f4f8-24c7-4b97-b7a0-b5cf827452a3
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 458d661f-4a25-44e6-9fff-9d4c34cc61f9
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 2f67d5da-932e-4c6b-9a59-d43e9518dff0
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: a95d3c15-0183-4b16-9fc5-e7103ec65c63
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: 8e2abe73-9aa3-46cb-a4c7-8e1a1d6be4b5
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: c8f01a29-172e-415b-8dc7-514b65a45fa4
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: d5df3849-f722-442a-9a9a-1bf4f8959439
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 7b4304f6-043b-4012-8950-5864dd1031d7
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:Session ID: f7952705-1afb-4d87-a18d-20eae6aface1
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 51d19bda-8d8d-41e9-9de4-5ebfe6d3617b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: c396df71-41ab-49a1-9086-fffd6b53c935
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 2e74ead0-5554-4b83-af7d-12e6dd0e4e1c
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: c3f5f30e-ee61-4ae9-9597-6fe0487802bb
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: bb2bdbcc-fabf-4724-a983-c63151c78a4a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 9e8c5dc2-7ace-41b9-8033-56ae1bae7099
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 4e996e72-995a-44e8-8d97-014d74704563
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 0baba96f-6a20-4195-be1a-485829a2040f
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: 2481b0ad-4033-4594-8272-ec605d22283b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 97083f61-3ae6-4957-8405-650c2d78810d
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: e621322c-125c-4033-b20b-8060de954ce5
+1:com.qa.BaseTest:Session ID: 741245f8-e6aa-48ca-8543-191452657faf
+1:com.qa.BaseTest:Session ID: 5df4fd2b-1760-46b0-a310-e5d99c8c52df
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 8468e43b-9c99-4fbb-b951-5cf5c8e0aa7f
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: 97c3e08c-714f-4ea0-9f5f-3485c1cb6607
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 84874eb6-2f14-4876-ac09-7d9dc4004716
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 2cb69259-a397-458c-89be-12553d604f76
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 4521aec8-38b9-4998-8794-0a057a1836b0
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: eff3e62c-de53-45b8-abb3-02b8eb0638a7
+1:com.qa.BaseTest:Session ID: 5dd4b96d-f8a0-4bd2-a7d4-9367636ac7c9
+1:com.qa.BaseTest:Session ID: 153b774b-8e6c-4d88-8cfb-32a139bf17dd
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: 21ba4d4e-357c-42a0-8949-743f66f216d7
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 1f07f7f0-ec31-4c13-85e7-ee11efe6ab26
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: a4f918f8-b41b-47d5-8ccc-49ce7b977531
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: e4aaa394-fe5e-46a6-9e53-6ee4ffa27646
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: f664a76b-564d-4364-ae7a-e6903ed1ffc8
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: 03a36f43-32f8-40df-b9fe-533fc5c860a3
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: 2eddc5da-d813-4fb9-93d8-fceea3334120
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: 4eeca33a-789f-4b81-a139-ceee74fb8bcc
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: 27260fda-1eea-4883-93ef-088806e6cca9
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: c7eac624-9fc3-4f99-80ed-c5069d2ef408
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: ce4f99b2-ee8f-4c01-921c-c05cb42febc0
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: 241003a4-aa39-4894-beb4-a17513bb6ec0
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: d517bbde-6c28-47e6-920d-6d26f378ed49
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: bd77ab2c-7879-4cb7-80f3-a99293e11d58
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.BaseTest:Session ID: fd964e1e-2742-40e6-ac26-73d71e8849b2
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: ced630d3-a15b-46f2-9213-102309fce117
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:Session ID: 856b603e-ba04-4154-a45f-b743395081ec
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 14f283e0-1b4f-4a8d-be13-80943225604b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 06db33aa-0bd8-459f-b515-2ec7a23d9514
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: ba614a31-3795-43e0-add7-a05cd3719a04
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 67b91fde-b910-47fe-808b-63a5b138005d
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 1d6991ff-907b-46db-98ee-7ced285fc779
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 85965bb0-dca8-4497-8226-4650faa9d092
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 47876134-475a-47fb-a515-53ab7a40d2e6
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 3fa1545f-e43a-47ee-855c-c9336e6ee190
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: b4264460-f942-4c17-baa1-3cd17fd6f767
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: 66ffb007-e2f5-45ca-94f0-5ae8c597c72d
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.BaseTest:Session ID: 759ac558-77cf-4845-bd4f-e828cc5d507e
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 6ee0878a-6d00-4bf7-86fa-cd593566e9ae
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 4e193c66-8594-48ea-bdb7-6332295b7c5e
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: 055d7528-c295-4e1c-9c70-f4e35c2c8c65
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: aeef1f7b-b636-4b21-8a80-d8c28b4adc58
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:CLosing the browser.
+1:com.qa.BaseTest:Session ID: d5c83e78-9d87-4e64-b655-0de0cf669708
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: c82b413d-1702-4f1c-b3e5-7802db09a6e8
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 3820c816-3305-4a2a-bd95-a62ff1298c1b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: dbf2395f-2129-4eea-976a-d1be67b15d37
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Session ID: a09a483b-aabf-42d5-8ce5-fcfa98b7645d
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Session ID: ac9edade-4258-4ffd-b538-07802fce3345
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: de8006c4-edef-45cc-8a2c-9a7cd4650b33
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:Session ID: e07035fa-4a47-4717-9a0b-3ad84b363e02
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:Session ID: 154acaea-c24a-417b-bbf6-76dd4c35a545
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: fae9f03a-8279-4a77-9803-f6cfa0092e00
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: fc84a0a4-24bc-4461-9e91-5e4e146e93f6
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 6cfaf193-c1c3-4a6c-8355-6f9f862c7a0d
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 048a0d63-1e72-4a9b-bf03-2f3043baad88
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: bfdc63c2-1e0e-4ae4-8ae3-e4794ab1952a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 0471f36b-a284-48f2-9f26-dc934dc5c59a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: d5817eb7-c399-4c8c-806b-cb768c963cce
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: da7f141f-c885-495c-b345-1b9b6d4f0cda
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 5d9d38ca-6298-415d-b4bd-52afea61e037
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:Session ID: 06338e70-26c3-40cf-afe0-603f8ba3069b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 11e4f6c7-8b68-4778-bbaf-38793c2e8074
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: a1f0be41-913e-4a58-b39f-815f8ebc2274
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 666b195b-5801-4ac6-a5b2-6296fd32375a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 9363add1-bdc8-4d4c-b08d-b74aaf867941
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 60e5687d-516d-4c54-8e6d-321330fc0035
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 21087a1d-bef9-469d-aeee-9b505151268c
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.dbstests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 2872c4cd-be97-4287-9d11-e07f22b9e78e
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 042883c0-3153-4bfa-8680-e24f753cebc2
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.CardsPage:Context check : NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 04a96766-6595-4292-a3b9-5421e916e1a5
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 497ce5a8-f5af-42f5-9797-35603881d697
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.CardsPage:Context check : NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 713a97e4-a9c1-49e0-84f7-e0aae9dae2e3
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: bdcb957f-179a-4e02-9980-6f0cfa20e863
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.CardsPage:Context check : NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 89e849eb-89e5-4b66-8750-a602fd91cbf3
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: ae2123c0-c3e4-4ab7-b7b2-e9e26a330c28
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:TC_MOB_156
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: b3bd4ea1-103d-4afd-b7c3-195e14573d34
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: fadc22d4-5a36-4e94-910b-52ab415b7a4a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:TC_MOB_156
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 1cab03d3-b617-4127-ae65-0fd290e7675b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 699bbeee-3df7-47a2-ab70-6cf6cb48f9dc
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:TC_MOB_156
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 3931a431-7a06-42ee-8d56-6b74950cbc2d
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 9bab72ed-c6ad-47b3-8a39-7ee3e9ec78c3
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 540565f9-6349-407f-8a9b-a3991349e17c
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 13a09b52-2b6c-49e4-a773-3b24909d4610
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: bcf4f52e-d319-40d8-8330-de9f638bd94a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.CardsPage:Context check : NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 8724e7a6-4d68-473e-8d8d-f40e68ba77f3
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 2657559d-3145-47e1-89f3-b8dd9fe4c553
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:Session ID: d17b2396-6250-497c-9201-e4e2352eccff
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 5c68e5b6-5db4-46e2-a3e2-6955e2945318
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:Session ID: 1dda3f64-dda2-48fb-babd-c0c8292c1be4
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 9e162c1c-2023-4076-9ba0-b9b15ddc5405
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: d15ae214-ade9-48e1-9d35-af477aaad19b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 66a40675-1450-434b-a57c-d21eea109e3d
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 76b34336-2542-488e-97fe-6944bea73f94
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: ecf91436-e55e-4b65-bfca-3e7ee0bdec67
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_chrome
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 2e886e05-577a-48e0-a8ac-f9e78b36de90
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: ae47b261-466c-4212-8e69-33f2438a2cd3
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 35390770-b10b-44a8-9898-ae2fd99f349a
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: a4ab44f4-ff94-4b31-bd9d-b62f025dfadc
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: dd836eaa-2000-4252-a17b-c235cf352025
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: fb9043cc-106c-4008-86ef-ae363ffed09f
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: d7e75f8a-d27c-4c59-9aaa-32bfd3b5611d
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.Pages.dbsPages.CardsPage:Context check : NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 32c49b6f-322e-4105-beec-c41ed8ad34dd
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 79551070-4587-4b47-8101-d2f00de0a529
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 0296c252-a4f4-4c27-8620-6f19542979e3
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 0989e7ca-e175-4e38-9c97-64824ac657dd
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: c5597482-7ed1-4e18-930e-b3c2b92ac21c
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 00c4e50c-e859-4b56-a70b-38e642ffe1d2
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 34e72ae4-ae09-4dd1-ba9f-e71136b44912
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:Already in NATIVE_APP context
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 55b815ff-3575-4ed2-9a3a-30f9eac071e2
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 7ab914bb-f277-4e13-bc4a-5c522724b92b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 74e29ed9-9387-43dc-b8b8-45e032175261
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:Already in NATIVE_APP context
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: a75bc18e-a6a5-43a4-b543-1f50e220bb64
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:Already in NATIVE_APP context
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 8ba96a7d-f680-485b-8fc6-064cfe285a3e
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:Already in NATIVE_APP context
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 9f17a51d-21f8-41b6-9fff-ad13476a68a4
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.BaseTest:Session ID: e8275808-aeb3-4220-a28a-e5910f7df3ff
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:Already in NATIVE_APP context
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 07907d10-91b0-43ed-bf3b-513344d4e425
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:Already in NATIVE_APP context
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: d379e75d-2376-4b65-8183-3a1159917601
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_155
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Card Bill Payment"] Actual text: Card Bill Payment Expected: Card Bill Payment
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Merchant Standing Instruction"] Actual text: Merchant Standing Instruction Expected: Merchant Standing Instruction
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Validation passed for element with locator: By.xpath: //*[@text="Scan & Pay"] Actual text: Scan & Pay Expected: Scan & Pay
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_156
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Passed-Able to navigate to Pay card Bill option
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 073e62f5-51c2-43af-b5bf-4f0bf2b112ad
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:Already in NATIVE_APP context
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 46a09965-22b0-4d6b-b43b-a5d861be7f3e
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:Already in NATIVE_APP context
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 3fd0ad97-0c76-4b5c-989f-04157420e4d1
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 54c954c0-3570-42b3-bf91-ab8a2b0bddf1
+1:com.qa.BaseTest:Session ID: 4b129ea2-3fe2-47f5-80f4-841c03964958
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.PayAndTransferPage:Clicking on Pay and Transfer
+1:com.qa.tests.PayAndTransferTest:Executing method: TC_MOB_161
+1:com.qa.Utils.TestUtils:Already in NATIVE_APP context
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_chrome
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 6ff6211c-0ea4-453b-9adc-1891fa9b07ce
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.tests.CardsDashBoardTest:Executing method: TC_MOB_69
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: eb8686bb-11c6-4bca-9d1c-5589d561526b
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.tests.CardsDashBoardTest:Executing method: TC_MOB_69
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
+1:com.qa.BaseTest:Session ID: 9ee57fe7-7603-4be5-9a3d-0d6d19121be0
+1:com.qa.BaseTest:Session ID: fbf124a5-51f2-4079-b172-bc73c9371c81
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 31b24d1a-3440-4883-a173-a3a1573f4afa
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.BaseTest:Session ID: 810c6239-52f2-41b0-8227-dfad44b9eb22
+1:com.qa.Pages.dbsPages.LoginPage:Selecting account by mobile number
+1:com.qa.Pages.dbsPages.LoginPage:Selecting phone number from list
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Pages.dbsPages.CardsPage:Clicking on Cards
+1:com.qa.tests.CardsDashBoardTest:Executing method: TC_MOB_69
+1:com.qa.Pages.dbsPages.LoginPage:Allowed managing calls popup
+1:com.qa.Utils.TestUtils:NATIVE_APP
+1:com.qa.Utils.TestUtils:WEBVIEW_com.dbs.in.cbcards
+1:com.qa.Utils.TestUtils:Switching to: WEBVIEW_com.dbs.in.cbcards
+1:com.qa.BaseTest:Closing the browser.
